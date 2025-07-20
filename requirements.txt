@@ -1,8 +1,12 @@
-streamlit 
-langchain 
-langchain_ollama
+streamlit
+langchain
+langchain_core
+langchain_text_splitters
+langsmith
+ollama
 selenium
 beautifulsoup4
-lxml 
+lxml
 html5lib
 python-dotenv
+webdriver-manager
